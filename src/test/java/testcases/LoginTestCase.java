@@ -9,7 +9,7 @@ public class LoginTestCase extends BaseClass {
 	@Test
 	public void hitUrl() {
 		
-		browserLaunch("chrome");
+		browserLaunch("chromeb");
 		
 		login("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		
